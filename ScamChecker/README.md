@@ -1,4 +1,12 @@
+<div align="center">
+
+<img src="logo.png.jpg" width="300" alt="ScamChecker Logo">
+
 # ScamChecker
+
+Detect | Prevent | Stay Safe
+
+</div>
 
 Advanced Scam and Phishing Detection Tool.
 
