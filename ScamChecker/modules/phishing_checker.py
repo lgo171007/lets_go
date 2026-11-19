@@ -107,9 +107,9 @@ class PhishingChecker:
 
         score = min(score, 100)
 
-        if score >= 60:
+        if score >= 50:
             status = "HIGH RISK"
-        elif score >= 30:
+        elif score >= 20:
             status = "SUSPICIOUS"
         else:
             status = "LOW RISK"
